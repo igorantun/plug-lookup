@@ -1,6 +1,6 @@
-Node.JS Chat
-============
-[![GitHub Stars](https://img.shields.io/github/stars/IgorAntun/plug-lookup.svg)](https://github.com/IgorAntun/plug-lookup/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/IgorAntun/plug-lookup.svg)](https://github.com/IgorAntun/plug-lookup/issues) [![Current Version](https://img.shields.io/badge/version-0.2.5-green.svg)](https://github.com/IgorAntun/plug-lookup)
+Slack plug.dj User Lookup
+=========================
+[![GitHub Stars](https://img.shields.io/github/stars/IgorAntun/plug-lookup.svg?style=flat-square)](https://github.com/IgorAntun/plug-lookup/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/IgorAntun/plug-lookup.svg?style=flat-square)](https://github.com/IgorAntun/plug-lookup/issues) [![Current Version](https://img.shields.io/badge/version-0.2.5-green.svg?style=flat-square)](https://github.com/IgorAntun/plug-lookup)
 
 A node.js utility to add a plug.dj user lookup integration on your Slack team.
 
