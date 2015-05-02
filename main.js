@@ -13,7 +13,7 @@ var slack = new Slack(config.slack.token, true, true);
 
 // Callbacks
 slack.on('open', function() {
-    consoleLog('start', 'Successfully onnected to Slack');
+    consoleLog('start', 'Successfully connected to Slack');
 });
 
 slack.on('message', function(message) {
