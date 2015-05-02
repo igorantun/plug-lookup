@@ -31,7 +31,7 @@ On `config.json`, do the following:
  - Use `!lookup [userid]` in a channel the bot is on and he'll reply with the user details.
 
 
-# Notes
+## Notes
 If you logout from your account on plug.dj (the account you got the session cookie from) by clicking the Logout button, your cookie will be invalidated by plug.dj and this utility won't work until you log in back.
 
 Notice your account can be offline (disconnected), it just can't be logged out)
