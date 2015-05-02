@@ -29,3 +29,9 @@ On `config.json`, do the following:
  - Run  `node main.js` on your clone root directory to start the application.
  - Once the utility is running, invite your Slack bot to the channels you want him to work on.
  - Use `!lookup [userid]` in a channel the bot is on and he'll reply with the user details.
+
+
+# Notes
+If you logout from your account on plug.dj (the account you got the session cookie from) by clicking the Logout button, your cookie will be invalidated by plug.dj and this utility won't work until you log in back.
+
+Notice your account can be offline (disconnected), it just can't be logged out)
