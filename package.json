@@ -1,0 +1,28 @@
+{
+  "name": "plug-lookup",
+  "version": "0.2.4",
+  "description": "User lookup for plug.dj",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IgorAntun/plug-lookup"
+  },
+  "keywords": [
+    "node",
+    "node.js",
+    "plug.dj"
+  ],
+  "author": "Igor Antun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IgorAntun/plug-lookup/issues"
+  },
+  "dependencies": {
+    "chalk": "~1.0.0",
+    "request": "^2.55.0",
+    "slack-client": "^1.4.0"
+  }
+}

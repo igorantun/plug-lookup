@@ -1,0 +1,10 @@
+{
+    "app": {
+        "logging": true,
+        "cookie": "your-plug.dj-session-cookie"
+    },
+
+    "slack": {
+        "token": "your-slack-token"
+    }
+}
