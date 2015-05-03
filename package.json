@@ -1,6 +1,6 @@
 {
   "name": "plug-lookup",
-  "version": "0.2.5",
+  "version": "0.2.7",
   "description": "User lookup for plug.dj",
   "main": "main.js",
   "scripts": {
