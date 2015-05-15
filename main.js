@@ -81,7 +81,7 @@ slack.on('message', function(message) {
                     }
                 });
 
-                consoleLog('lookup', '[#' + message.channel + ']' + user.name + ': ' + message.text);
+                consoleLog('lookup', '[#' + message.channel + '] ' + user.name + ': ' + message.text);
             break;
 
             case 'status':
