@@ -66,8 +66,8 @@ slack.on('message', function(message) {
                                           '*Level:* ' + body.level + '\n' +
                                           '*Slug:* ' + body.slug + '\n' +
                                           '*ID:* ' + body.id + '\n' +
-                                          '*Language:* ' + body.language + '\n' +
                                           '*Subscriber:* ' + body.sub + '\n' +
+                                          '*Language:* ' + body.language + '\n' +
                                           '*Avatar:* ' + body.avatarID + '\n' +
                                           '*Badge:* ' + body.badge + '\n' +
                                           '*Global Role:* ' + body.gRole + '\n',
