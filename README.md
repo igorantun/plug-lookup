@@ -8,7 +8,7 @@ A node.js utility to add a plug.dj user lookup integration on your Slack team.
 
 
 ## Setup
-Clone this repo to your desktop and run `npm install` to install all the dependencies.
+Clone this repo to your desktop and run `npm install` to install its dependencies.
 
 #### Slack
 On `config.json`, do the following:
